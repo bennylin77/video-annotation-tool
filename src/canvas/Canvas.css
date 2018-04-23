@@ -1,0 +1,7 @@
+.konva-wrapper {
+	width: 640px;
+	height: 480px;
+	background: transparent;
+	position: absolute;
+	top: 0px;
+}
